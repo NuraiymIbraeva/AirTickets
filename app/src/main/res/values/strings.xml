@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirTickets</string>
+    <string name="text_logo">D e l t a</string>
+    <string name="passenger_static_text">Passenger</string>
+</resources>
