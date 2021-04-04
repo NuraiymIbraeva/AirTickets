@@ -10,4 +10,5 @@
     <string name="am_time">AM</string>
     <string name="_11_17_time">11:17</string>
     <string name="am_text">AM</string>
+    <string name="boarding_begins_text">boarding begins</string>
 </resources>
