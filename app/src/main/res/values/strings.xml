@@ -2,4 +2,12 @@
     <string name="app_name">AirTickets</string>
     <string name="text_logo">D e l t a</string>
     <string name="passenger_static_text">Passenger</string>
+    <string name="jfk_text">JFK</string>
+    <string name="sea_text">SEA</string>
+    <string name="client_text">Kathleen Huang</string>
+    <string name="new_york_city_text">NEW YORK CITY</string>
+    <string name="_8_00_time">8:00</string>
+    <string name="am_time">AM</string>
+    <string name="_11_17_time">11:17</string>
+    <string name="am_text">AM</string>
 </resources>
